@@ -7,14 +7,17 @@
 💻 Skills
 - Java
 - Python
+- Pandas
 - Data Structures & Algorithms
 - Git & GitHub
 - OpenCV
 - YOLO
 - Google Cloud
+- HTML/CSS/JS
 
 🚀 Projects
 - Object Detection System using OpenCV and YOLO
+- Sentiment Analysis Dashboard
 - Frontend Practice Projects
 - Data Structures and Algorithms (ongoing)
 
