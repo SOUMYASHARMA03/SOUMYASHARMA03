@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 
-* **Languages:** Java, Python, C
+* **Languages:** Java, Python
 * **Core:** Data Structures & Algorithms, Object-Oriented Programming
 * **AI & ML:** Scikit-learn, TF-IDF, Sentiment Analysis
 * **Computer Vision:** OpenCV, YOLO
