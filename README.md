@@ -12,7 +12,7 @@
 * **Core:** Data Structures & Algorithms, Object-Oriented Programming
 * **AI & ML:** Scikit-learn, TF-IDF, Sentiment Analysis
 * **Computer Vision:** OpenCV, YOLO
-* **Web Development:** HTML, CSS, JavaScript, React/TypeScript
+* **Web Development:** HTML, CSS, JavaScript
 * **Cloud:** Google Cloud
 * **Tools:** Git, GitHub, VS Code
 
